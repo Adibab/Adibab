@@ -10,11 +10,7 @@
 
 - 🌱 I’m currently learning **JavaScript, React, Node, POSTGRESQL**
 
-- 📝 I regularly write articles on [https://adibathemumcoder0308.hashnode.dev/](https://adibathemumcoder0308.hashnode.dev/)
-
 - 💬 Ask me about **HTML,CSS,JavaScript,React, Node, POSTGRESQL**
-
-- 📫 How to reach me **adiba.du.bd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
